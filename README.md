@@ -1,4 +1,4 @@
 # workman-pt
-Workman-us adaptation to work with the Portuguese language, with MacOS style dead keys.
+Workman-us adaptation to work with the Portuguese language. For windows users.
 
 Includes windows installer.
